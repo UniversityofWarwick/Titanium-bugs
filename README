@@ -1,18 +1,5 @@
-Welcome to your Appcelerator Titanium Mobile Project
+Use this project to reproduce bugs in the Titanium API outside of any other factors in your app.
 
-This is a blank project.  Start by editing your application's app.js to 
-make your first mobile project using Titanium.
+Create a new Common JS module in the 'bugs' folder with a 'build' method and it wll be automatically added to the home screen list.
 
-
-
-----------------------------------
-Stuff our legal folk make us say:
-
-Appcelerator, Appcelerator Titanium and associated marks and logos are 
-trademarks of Appcelerator, Inc. 
-
-Titanium is Copyright (c) 2009-2010 by Appcelerator, Inc. All Rights Reserved.
-
-Titanium is licensed under the Apache Public License (Version 2). Please
-see the LICENSE file for the full license.
-
+You'll probably have to Clean the project for the new module to become available.
