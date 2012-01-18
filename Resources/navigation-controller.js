@@ -1,6 +1,7 @@
 var windowDefaults = {
 	animated: true,
-	barColor: '#000000'
+	barColor: '#000000',
+	backgroundColor: '#fff'
 };
 
 exports.NavigationController = function() {
